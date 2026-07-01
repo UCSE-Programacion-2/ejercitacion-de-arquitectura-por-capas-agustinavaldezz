@@ -9,8 +9,10 @@
     "test": "jest --detectOpenHandles"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "express": "^4.19.2",
-    "mongoose": "^8.4.1"
+    "mongodb": "^7.4.0",
+    "mongoose": "^8.24.1"
   },
   "devDependencies": {
     "jest": "^29.7.0",
